@@ -11,7 +11,7 @@ from torch.optim.lr_scheduler import LambdaLR, StepLR, MultiStepLR, ExponentialL
 import matplotlib.pyplot as plt
 import time
 import datetime
-#from tqdm import tqdm
+from tqdm import tqdm
 import math
 import os
 
